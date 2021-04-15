@@ -2,7 +2,7 @@
 baseURL = "https://finanz-etf.de/"
 languageCode = "en-us"
 # site title 
-title = "Northendlab | Blog Template"
+title = "Обучаем инвестировать в Германии"
 # theme
 theme = "northendlab-hugo"
 # post pagination
@@ -68,14 +68,14 @@ home = "Home"
 # logo
 logo = "images/logo.svg"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Автор"
+description = "Пока пусто"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2021 FINANT-ETF(https://finanz-etf.de) All Rights Reserved"
 
 # preloader
 [params.preloader]
@@ -94,7 +94,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Привет, я хочу научить тебя инвестировать твои деньги, Правильно!"
 image = "images/banner/illustration.svg"
 
 
