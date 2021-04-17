@@ -94,13 +94,13 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Привет, я хочу научить тебя инвестировать твои деньги, Правильно!"
-image = "images/banner/illustration.svg"
+title = "Привет, на этом сайте ты научишься инвестировать и приумножать свои деньги."
+image = "images/banner/illustration.svg" # мужик справа)
 
 
 ######################## call to action ###############################
-[params.cta]
-enable = true
+[params.cta] # сова внизу сайта
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
@@ -118,8 +118,8 @@ link = "#"
 icon = "ti-twitter-alt" # themify icon pack https://themify.me/themify-icons
 link = "#"
 [[params.social]]
-icon = "ti-github" # themify icon pack https://themify.me/themify-icons
+icon = "ti-instagram" # themify icon pack https://themify.me/themify-icons
 link = "#"
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack https://themify.me/themify-icons
+icon = "ti-github" # themify icon pack https://themify.me/themify-icons
 link = "#"
