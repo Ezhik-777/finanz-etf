@@ -22,7 +22,7 @@ type = "post"
 
 > #### `Содержание`
 1. [Прибыль на рынках с пассивными инвестициями][1]
-2. [Разница между активным и пассивным инвестированием.][2]
+2. [Разница между активными и пассивными инвестициями][2]
 3. [Buy and hold вместо спекуляции][3]
 4. [Преимущества пассивного инвестирования][4]
 5. [3 подсказки успешных пасивных инвестиций][5]
@@ -100,14 +100,18 @@ Für jeden Sparer in Deutschland gelten 801€ (bei verheirateten Paaren 1.602�
 
 > #### `ЧАсто задаваемые ВОпросы`
 
-Was bedeutet passives Investieren?
-Für wen eignet sich passives Investieren?
-Wann zahle ich Steuern bei passiven Investments?
-Bei jedem Gewinn durch Wertpapierverkäufe fällt die Abgeltungssteuer an. Mit einer langfristig ausgelegten Anlagestrategie z. B. mit thesaurierenden ETFs kannst du so einen Steuerstundungseffekt erzielen und Geld sparen: Denn wenn die Steuer später fällig ist, kann das Geld länger Zinsen für dich erwirtschaften. Mehr dazu in unserem Ratgeber Steuern & ETFs.
+1. Was bedeutet passives Investieren?
+	- `Wer passiv investiert, spekuliert nicht, sondern setzt auf die Entwicklung der Märkte. Diese Strategie setzt sich aus Buy-and-hold und Indexing zusammen. Auf einen Index kannst du z. B. mit ETFs setzen.`
+2. Für wen eignet sich passives Investieren?
+	- `Passives Investieren eignet sich für jeden Anleger. Einer der Vorteile gegenüber aktiven Investments ist die Zeit- und Kostenersparnis. Du musst dich bei passiven Anlagen nicht so häufig mit Unternehmenskennzahlen, Marktstatistiken und ähnlichem auseinandersetzen.`
+3. Wann zahle ich Steuern bei passiven Investments?
+	- `Bei jedem Gewinn durch Wertpapierverkäufe fällt die Abgeltungssteuer an. Mit einer langfristig ausgelegten Anlagestrategie z. B. mit thesaurierenden ETFs kannst du so einen Steuerstundungseffekt erzielen und Geld sparen: Denn wenn die Steuer später fällig ist, kann das Geld länger Zinsen für dich erwirtschaften. Mehr dazu in unserem Ratgeber Steuern & ETFs.`
+
+
 
 [1]:	#%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8
 [2]:	#%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F%D0%BC%D0%B8
 [3]:	#buy-and-hold-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D1%81%D0%BF%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8
 [4]:	#%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
-[5]:	#3-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9
+[5]:	#3-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9
 [6]:	#%D1%87%D0%B0%D1%81%D1%82%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B
