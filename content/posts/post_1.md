@@ -6,12 +6,11 @@ date = 2021-04-17T00:23:22Z
 description = "Пассивные инвестиции" # meta data
 categories = ["Теория"]
 type = "post"
-draft = "true"
 +++
 
-***
+---- 
 
-> #### ``Важная информация для тебя!``
+> #### `Важная информация для тебя!`
 - **Пассивное инвестирование** означает - совершать ставку на **весь рынок** вместо того, чтобы выбирать отдельные ценные бумаги, вы верите в то что рынок **будет продолжать рости**, как он это делает уже много десятков лет! 
 - Лишь небольшая часть управляющих активными фондами получают прибыль, превышающую рыночную. Явный аргумент в пользу пассивного инвестирования - здесь вы можете **быть уверены в рыночной доходности.**
 - Пассивное инвестирование **намного дешевле** активного!
@@ -19,19 +18,19 @@ draft = "true"
 - Пассивные инвестиции, такие как ETF, **рациональны** и следуют четким правилам - активно управляемые инвестиции (например, самостоятельный выбор акций или активно управляемые фонды) никогда не свободны от эмоций. 
 - Эффект отсрочки налогообложения за счет покупки и удержания позволяет вашим деньгам работать на вас дольше: вы платите налоги только тогда, когда вы реализуете свою прибыль - чем дольше горизонт инвестирования, тем больше шансов на дополнительную прибыль.
 
-***
+---- 
 
-> #### ``Содержание``
-1. [Прибыль на рынках с пассивными инвестициями](#пассивные-инвестиции)
-2. [Разница между активным и пассивным инвестированием.](#разница-между-пассивными-и-активными-инвестициями)
-3. [Buy and hold вместо спекуляции](#buy-and-hold-вместо-спекуляции)
-4. [Преимущества пассивного инвестирования](#преимущества-пассивного-инвестирования)
-5. [3 подсказки успешных пасивных инвестиций](#3-подсказки-успешных-пассивных-инвестиций)
-6. [**ЧА**сто задаваемые **ВО**просы.](#часто-задаваемые-вопросы)
+> #### `Содержание`
+1. [Прибыль на рынках с пассивными инвестициями][1]
+2. [Разница между активным и пассивным инвестированием.][2]
+3. [Buy and hold вместо спекуляции][3]
+4. [Преимущества пассивного инвестирования][4]
+5. [3 подсказки успешных пасивных инвестиций][5]
+6. [**ЧА**сто задаваемые **ВО**просы.][6]
 
-***
+---- 
 
-> #### ``Пассивные инвестиции``
+> #### `Пассивные инвестиции`
 
 Passives Investieren ist eine Anlagestrategie, die sich bewährt hat. Als passiver Anleger setzt du auf eine Mischung aus Indexing und Buy and hold. Statt aktiv einzelne Wertpapiere auszusuchen und dir individuell ein Portfolio zusammenzustellen, kaufst du als passiver Investor den gesamten Markt. Mit weniger Risiko, weniger Adrenalin und weniger Zeitaufwand als beim aktiven Investieren. Klingt zu gut, um wahr zu sein? Wir erklären, wie es funktioniert.
 
@@ -43,9 +42,9 @@ Auf den Markt zu setzen ist also eine rationale Entscheidung. Für die Theorie d
 
 Über mehrere Jahre betrachtet nimmt die Wahrscheinlichkeit, dass ein aktiv gemanagter Fonds die Marktrendite schlägt, immer weiter ab: Wenn ein Fondsmanager also in einem Jahr eine bessere Rendite erzielen konnte, heißt das noch nichts fürs nächste Jahr.
 
-***
+---- 
 
-> #### ``Разница между пассивными и активными инвестициями``
+> #### `Разница между пассивными и активными инвестициями`
 
 Aktives Investment bedeutet: Du suchst dir Einzelwerte heraus, von denen du dir erhoffst, dass sie die Marktrendite übertreffen – man sagt auch Stockpicking. Dafür kannst du neben ETFs auch Einzelaktien, Fonds, REITS etc. nutzen. Aktiv heißt, dass du spekulierst, also aktiv handelst, und nicht einfach kaufst und deine Wertpapiere hältst. 
 
@@ -53,17 +52,17 @@ Um als aktiver Investor erfolgreich zu sein, sollte man sich mit den Wertpapiere
 
 Im Gegensatz dazu vertraut der passive Investor darauf, dass die Märkte sich positiv entwickeln und spekuliert nicht. Mit aktivem Trading kannst du zwar in der Theorie eine höhere Rendite als die Marktrendite erzeugen, trägst aber ein viel höheres Risiko als z. B. bei einem Welt-ETF. 
 
-***
+---- 
 
-> #### ``Buy and hold вместо спекуляции``
+> #### `Buy and hold вместо спекуляции`
 
 Buy and hold bedeutet: Anteile kaufen und halten. Das geht mit unterschiedlichen Produkten, auch mit Einzelaktien. Als passiver Investor hast du einen langen Anlagehorizont. Du sitzt kurzfristige Kursschwankungen aus, hechelst keinen Trends hinterher, lässt dich nicht von vermeintlichen Geheimtipps locken. Als passiver Investor schaust du nur unregelmäßig dein Depot, denn das Ziel ist schließlich, erst mal nicht auf das Geld zuzugreifen sondern es langfristig für dich arbeiten zu lassen. 
 
 Spekulationen sind immer riskanter als ein passives Investment mit Welt-ETFs, weil sie nicht so breit diversifiziert sind. Und es gibt weitere Vorteile.
 
-***
+---- 
 
-> #### ``Преимущества пассивного инвестирования``
+> #### `Преимущества пассивного инвестирования`
 
 Als passiver Investor in einen Welt-ETF nimmst du immer die Marktrendite mit. Denn mit einem ETF investierst du automatisch in eine Vielzahl an Einzelwerten. Nicht mehr, aber vor allem nicht weniger. Passive Investments mit ETFs sind automatisch breit gestreut, sprich du setzt nicht auf nur ein oder wenige Unternehmen, sondern alle im Index enthaltenen Unternehmen. 
 
@@ -87,9 +86,9 @@ Bei thesaurierenden ETFs wird die Vorabpauschale eingezogen, auch wenn du deine 
 
 Für jeden Sparer in Deutschland gelten 801€ (bei verheirateten Paaren 1.602€) Sparerpauschbetrag – bis zu diesem jährliche Betrag bleiben deine Kapitalerträge wie Dividenden oder realisierte Kursgewinne steuerfrei. 
 
-***
+---- 
 
-> #### ``3 подсказки успешных пасивных инвестиций``
+> #### `3 подсказки успешных пасивных инвестиций`
 
 1) Kenne die Risiken und schätze dich richtig ein: Auch wenn die Risiken beim passiven Investieren geringer sind als aktiven Traden: Beschäftige dich mit dem Thema Marktrisiko und bestimme deine persönliche Risikotragfähigkeit.
 
@@ -97,11 +96,18 @@ Für jeden Sparer in Deutschland gelten 801€ (bei verheirateten Paaren 1.602�
 
 3) Passive und aktive Investments trennen: Wenn du einen Teil deines Vermögens passiv investieren möchtest und den Rest für aktive Investments/Spekulationen nutzen willst, ist das völlig in Ordnung. Wir empfehlen aus psychologischen Gründen, dafür ein extra Depot anzulegen. So gerätst du nicht in Versuchung, mit deinem passiven Anteil von der Buy-and-hold-Strategie abzukommen.
 
-***
+---- 
 
-> #### ``ЧАсто задаваемые ВОпросы``
+> #### `ЧАсто задаваемые ВОпросы`
 
 Was bedeutet passives Investieren?
 Für wen eignet sich passives Investieren?
 Wann zahle ich Steuern bei passiven Investments?
 Bei jedem Gewinn durch Wertpapierverkäufe fällt die Abgeltungssteuer an. Mit einer langfristig ausgelegten Anlagestrategie z. B. mit thesaurierenden ETFs kannst du so einen Steuerstundungseffekt erzielen und Geld sparen: Denn wenn die Steuer später fällig ist, kann das Geld länger Zinsen für dich erwirtschaften. Mehr dazu in unserem Ratgeber Steuern & ETFs.
+
+[1]:	#%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8
+[2]:	#%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC%D0%B8-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F%D0%BC%D0%B8
+[3]:	#buy-and-hold-%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BE-%D1%81%D0%BF%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D0%B8
+[4]:	#%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+[5]:	#3-%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8-%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D1%8B%D1%85-%D0%BF%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9
+[6]:	#%D1%87%D0%B0%D1%81%D1%82%D0%BE-%D0%B7%D0%B0%D0%B4%D0%B0%D0%B2%D0%B0%D0%B5%D0%BC%D1%8B%D0%B5-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B
