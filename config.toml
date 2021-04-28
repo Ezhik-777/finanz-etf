@@ -2,7 +2,7 @@
 baseURL = "https://ezhik-777.github.io/finanz-etf/"
 languageCode = "en-us"
 # site title 
-title = "Обучаем инвестировать в Германии"
+title = "Обучаем инвестировнию в Германии"
 # theme
 theme = "northendlab-hugo"
 # post pagination
